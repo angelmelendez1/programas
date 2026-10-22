@@ -1,4 +1,5 @@
-﻿using System;
+//calcular el factorial de un numero usando recursividad
+using System;
 class Program
 {
     static long Factorial(int n)

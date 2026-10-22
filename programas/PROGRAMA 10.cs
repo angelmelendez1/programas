@@ -1,4 +1,4 @@
-﻿//programa 10.- covertir un numero decimal a binario
+﻿//convertir un numero decimal a binario
 //objetivo convertir 
 
 using System;

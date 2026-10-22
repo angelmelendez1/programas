@@ -1,4 +1,4 @@
-﻿
+﻿//dterminar si el numero es par o impar
 using System;
 
 class Program

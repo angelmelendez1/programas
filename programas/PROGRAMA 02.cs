@@ -1,4 +1,5 @@
-﻿using System;
+//calcula la serie de fibonacci de forma recursiva
+using System;
 
 class Program
 {

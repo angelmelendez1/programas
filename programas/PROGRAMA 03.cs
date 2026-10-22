@@ -1,4 +1,4 @@
-﻿
+//calcular la suma desde 1 hasta el numero integrado﻿
 using System;
 
 class Suma

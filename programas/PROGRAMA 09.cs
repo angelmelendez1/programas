@@ -1,4 +1,4 @@
-﻿
+﻿//suma de numero mediante recursividad indirecta,calcular la suma de los umeros desde 1 hasta n utilizando dos metodos q se llamen mutuamente
 using System;
 
 class Program
